@@ -1,0 +1,38 @@
+
+
+.top{
+	height: 100vh;
+	width: 100%;
+	margin:0;
+	background: url("../images/top.jpg");
+	background-size: cover;
+	position: relative;
+	font-family: "Arial", "メイリオ";
+}
+
+.menu{
+	font-size: 40px;
+}
+.top-text{
+	line-height: 20px;
+	position:absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.top-text2{
+	font-size: 30px;
+
+}
+.top-text3{
+	font-size: 40px;
+}
+.kayoi{
+	font-size: 60px;
+}
+hr{
+	margin-top: 75vh;
+	height: 1px;
+	color: black;
+	box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 1);
+}
