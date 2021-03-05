@@ -12,7 +12,7 @@
 	<div class="top">
       <p class="menu">Menu</p>
     <div class="top-text">
-        <p class="top-text2">リンス・カラー・パーマ</p>
+        <p class="top-text2">シャンプー・カラー・パーマ</p>
         <p class="top-text3">上質な美容院にいつでも<span class="kayoi">通い放題</span></p>
     </div>
 
