@@ -3,7 +3,7 @@
 
   <head>
   	<meta charset="utf-8">
-    <title>テストララベル</title>
+    <title>美容院</title>
     <link rel="stylesheet" href="/css/styles.css">
   </head>
 
@@ -14,9 +14,6 @@
     <div class="top-text">
         <p class="top-text2">シャンプー・カラー・トリートメント</p>
         <p class="top-text3">上質な美容院にいつでも<span class="kayoi">通い放題</span></p>
-    </div>
-
-    <div class="mobile">
     </div>
 
 <hr>
